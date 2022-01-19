@@ -18,7 +18,7 @@ const componentData = [
   },
   {
     text: "ic",
-    content: "Password",
+    content: 'Password',
   },
   {
     text: "ic",
