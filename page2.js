@@ -36,7 +36,7 @@ export default function Page2() {
                 alignItems: "center",
                 margin: 20,
                 borderRadius: 7,
-                backgroundColor: "rgba(52, 52, 52, 0.8)",
+                backgroundColor: "#A9A9A9",
               }}
             >
               <View
@@ -55,7 +55,7 @@ export default function Page2() {
               style={{
                 height: 130,
                 width: windowWidth * 0.3,
-                backgroundColor: "rgba(52, 52, 52, 0.8)",
+                backgroundColor: "#A9A9A9",
                 justifyContent: "center",
                 alignItems: "center",
                 margin: 20,
@@ -74,7 +74,7 @@ export default function Page2() {
             style={{
               height: 55,
               width: windowWidth * 0.7,
-              backgroundColor: "gray",
+              backgroundColor: "#A9A9A9",
               justifyContent: "center",
               alignItems: "center",
               borderRadius: 7,
